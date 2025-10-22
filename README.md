@@ -43,9 +43,9 @@ Expands on async programming by using asynchronous comprehensions and generators
 Shows proficiency in writing comprehensive tests for Python code. This includes using the unittest framework, mocking external APIs and dependencies (unittest.mock), and structuring both unit and integration tests.
 
 <br />
-
+<br />
 **🛠️ Key Skills Demonstrated**
-
+<br />
 The projects in this repository collectively showcase my proficiency in:
 
 Advanced Python Programming: Writing robust, modern code using type hinting, async/await, and async comprehensions.
