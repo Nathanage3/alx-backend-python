@@ -16,7 +16,7 @@ These projects reflect a deep understanding of Python internals and best practic
 
 **Project Directory***&emsp;&emsp;&emsp;&emsp;**Concept / Skill Demonstrated**&emsp;&emsp;&emsp;&emsp; **Key Technologies**
 
-0x00-python_variable_annotations&emsp;&emsp;&emsp;&emsp;Python Type Annotations&emsp;&emsp;&emsp;&emsp;Python 3.7+, Typing module
+1. **0x00-python_variable_annotations** &emsp;&emsp;&emsp;&emsp;Python Type Annotations&emsp;&emsp;&emsp;&emsp;Python 3.7+, Typing module
 
 <br />
 
@@ -24,21 +24,21 @@ This project demonstrates a deep understanding of Python's type hinting system (
 
 <br />
 
-0x01-python_async_function&emsp;&emsp;&emsp;&emsp;Asynchronous Programming&emsp;&emsp;&emsp;&emsp;Python, asyncio, async/await
+2. **0x01-python_async_function** &emsp;&emsp;&emsp;&emsp;Asynchronous Programming&emsp;&emsp;&emsp;&emsp;Python, asyncio, async/await
 <br />
 
 This project explores the fundamentals of asynchronous programming in Python. It includes writing coroutines with async/await, creating concurrent asyncio.Task instances, and managing the async event loop.
 
 <br />
 
-0x02-python_async_comprehension&emsp;&emsp;&emsp;&emsp;Advanced Async Concepts&emsp;&emsp;&emsp;&emsp;Python, asyncio, Async Comprehensions
+3. **0x02-python_async_comprehension** &emsp;&emsp;&emsp;&emsp;Advanced Async Concepts&emsp;&emsp;&emsp;&emsp;Python, asyncio, Async Comprehensions
 
 <br />
 
 Expands on async programming by using asynchronous comprehensions and generators. This demonstrates how to write highly efficient, non-blocking code for processing streams of data.
 <br />
 
-0x03-Unittests_and_integration_tests&emsp;&emsp;&emsp;&emsp;Unit & Integration Testing&emsp;&emsp;&emsp;&emsp;Python, unittest, unittest.mock
+4. **0x03-Unittests_and_integration_tests** &emsp;&emsp;&emsp;&emsp;Unit & Integration Testing&emsp;&emsp;&emsp;&emsp;Python, unittest, unittest.mock
 <br />
 Shows proficiency in writing comprehensive tests for Python code. This includes using the unittest framework, mocking external APIs and dependencies (unittest.mock), and structuring both unit and integration tests.
 
